@@ -6,7 +6,7 @@ This guide will help you set up your Python environment, install the necessary d
 
 Clone the repository to your local machine:
 bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/SumanthRakasi/Cloud-Bridge-File-Sharing-Platform.git
 cd your-repo
 
 
